@@ -9,7 +9,7 @@ let students = [
 
 ]
 
-students += {id: 4, name: "Sarah", major: "CS"};
+students += {id: 4, name: "Sarah", major: "Business"};
 
 displayStudents = () => {
     students.forEach((item) => {
